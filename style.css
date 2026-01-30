@@ -1,0 +1,24 @@
+.calculator {
+    background-image:url(CALli.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: auto;
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+    height: 400px;
+    width: 70%;
+    margin: auto;
+    padding: 100px;
+    border: 15px solid #000;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #4e8a6085;
+}
+body {
+  background-image: url("CAL.PNG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}   
